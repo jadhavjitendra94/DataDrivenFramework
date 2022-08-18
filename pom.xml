@@ -3,6 +3,17 @@
   <groupId>DataDrivenFramework</groupId>
   <artifactId>DataDrivenFramework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <build>
+  <plugins>
+  
+  
+  
+  
+  </plugins>
+  
+  
+  </build>
   <dependencies>
   <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
